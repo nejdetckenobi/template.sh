@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 function _project_learn(){
     if [ -z "$2" ] && [ "$1" "!=" "default" ] || [ -z "$1" ]
     then
